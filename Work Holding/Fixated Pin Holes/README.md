@@ -1,0 +1,2 @@
+#Fixated Pin Holes
+This is a model to bore 1/4" holes and mark the usable work area to be able to use locating pins on the stock LDO FIXATED plate. (Holes are deliberately undersized to be reamed to the perfect size.) You may want to ensure your STEPS/MM are well tuned before running this.
